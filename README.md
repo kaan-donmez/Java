@@ -1,2 +1,2 @@
 # Java
-Java Library
+This is a library for Java
